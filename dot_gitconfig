@@ -1,0 +1,4 @@
+[includeIf "gitdir:~/Desarrollo-FlexiW/"]
+    path = .gitconfig-flexiw
+[includeIf "gitdir:~/Desarrollo/"]
+    path = .gitconfig-personal
