@@ -1,4 +1,5 @@
+[user]
+    email = agredain@gmail.com
+    name = Daniel Agredano
 [includeIf "gitdir:~/Desarrollo-FlexiW/"]
     path = .gitconfig-flexiw
-[includeIf "gitdir:~/Desarrollo/"]
-    path = .gitconfig-personal
