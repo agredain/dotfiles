@@ -1,5 +1,8 @@
 [user]
     email = agredain@gmail.com
     name = Daniel Agredano
+[core]
+  sshCommand = ssh -i ~/.ssh/id_ed25519_github
+
 [includeIf "gitdir:~/Desarrollo-FlexiW/"]
     path = .gitconfig-flexiw
