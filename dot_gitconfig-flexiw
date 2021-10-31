@@ -1,3 +1,5 @@
 [user]
 	email = d.agredano@flexiw.com
 	name = Daniel Agredano
+[core]
+  sshCommand = ssh -i ~/.ssh/flexiwatt_gitlab_ed25519
